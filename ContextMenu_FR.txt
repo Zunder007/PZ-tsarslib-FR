@@ -1,0 +1,93 @@
+ContextMenu_FR = {
+/************ Tuning 2.0 ************/
+    ContextMenu_OpenTuningMenu = "Modifications",
+
+
+    ContextMenu_LaunchVehicle = "Décharger de la remorque",
+    ContextMenu_CantLaunchVehicle = "Impossible de décharger.<br>Quelque chose gêne",
+    ContextMenu_LoadVehicleOntoTrailer = "Charger dans la remorque",
+    ContextMenu_CantLoadVehicleOntoTrailer = "Il n'y a pas de véhicule à<br>l'arrière ou il n'est pas<br>adapté à cette remorque",
+
+    ContextMenu_TCConvertAppliance = "Faire %1",
+
+    ContextMenu_AirCondOn = "Contrôle du chauffage",
+    ContextMenu_AirCondOff = "Contrôle du chauffage",
+    ContextMenu_Sleep_Mattress = "Dormir sur le matelas",
+    ContextMenu_PainNoSleep_Mattress = "Souffre trop pour dormir sur le matelas",
+    ContextMenu_PanicNoSleep_Mattress = "Panique trop pour dormir sur le matelas",
+    ContextMenu_NoSleepTooEarly_Mattress = "Impossible de se rendormir sur le matelas.<br>Réessayer plus tard",
+    ContextMenu_Add_Gasoline_To_Gasoline_Storage_Tank = "Verser de l'essence dans le réservoir",
+    ContextMenu_Remove_Gasoline_From_Gasoline_Storage_Tank = "Siphonner l'essence du réservoir",
+    ContextMenu_Fill_Gasoline_Storage_Tank_From_Pump = "Remplir le réservoir d'essence avec la pompe",
+    ContextMenu_Fill_Gasoline_Storage_Tank_From_Fuel_Truck = "Remplir le réservoir d'essence depuis le camion-citerne",
+    ContextMenu_Remove_Gasoline_From_Fuel_Truck = "Faire le plein à partir du réservoir",
+    ContextMenu_For_get_Gasoline_Need_Gas_Can = "Nécessite un bidon d'essence",
+    
+    ContextMenu_CloseTent = "Fermer la tente",
+    ContextMenu_OpenTent = "Ouvrir la tente",
+    
+    ContextMenu_Vehicle_For_Smashwindow_Uninstall_Protection = "Pour casser la vitre,<br>enlever la protection.",
+    
+/************ Aquatsar Yacht Club ************/
+    ContextMenu_BoatAddGas = "Ajouter du diesel",
+    ContextMenu_BoatCabinelightsOff = "Éteindre la lumière",
+    ContextMenu_BoatCabinelightsOn = "Allumer la lumière",
+    
+    ContextMenu_BoatHeadlightsOff = "Éteindre les projecteurs",
+    ContextMenu_BoatHeadlightsOn = "Allumer les projecteurs",
+    ContextMenu_BoatHotwireSkill = "Vous avez besoin de clés ou<br>Électricité Niveau 1 et<br>Mécanique Niveau 2<br>pour court-circuiter.",
+    
+    ContextMenu_RemoveSail = "Retirer les voiles", 
+    ContextMenu_SetLeftSail = "Régler la trinquette<br>sur le côté gauche",
+    ContextMenu_SetRightSail = "Régler la trinquette<br>sur le côté droit",
+    ContextMenu_SwimToLand = "Nager vers la terre ferme",
+    
+    ContextMenu_LaunchBoat = "Lancer le bateau",
+    ContextMenu_CantLaunchBoat = "Il est nécessaire de conduire<br>la remorque jusqu'à l'eau",
+    ContextMenu_LoadBoatOntoTrailer = "Charger le bateau sur la remorque",
+    ContextMenu_CantLoadBoatOntoTrailer = "Le bateau et la remorque<br>doivent être proches",
+    ContextMenu_CantLoadBoatOntoTrailerMan = "Il ne devrait y avoir personne<br>sur le bateau",
+    
+    ContextMenu_VehicleStartEngineManual = "Démarrer le moteur manuellement",
+    ContextMenu_VehicleManualStarterDamage = "Démarreur à rappel non installé<br>ou endommagé",
+    ContextMenu_set_anchor_on = "Jeter l'ancre",
+    ContextMenu_set_anchor_off = "Lever l'ancre",
+    ContextMenu_bind_boat = "Amarrer le bateau",
+    ContextMenu_unbind_boat = "Désamarrer le bateau",
+    
+    ContextMenu_Wooden_Pantone = "Ponton en bois",
+    
+    ContextMenu_Open_Cabin = "Déverrouiller la cabine",
+    ContextMenu_Open_Cabin_Force = "Déverrouiller la cabine<br>(avec %1)",
+    ContextMenu_Open_Cabin_Force_Need_Crowbar = "Déverrouiller la cabine<br>(besoin d'un outil ou d'une clé)"
+    ContextMenu_Close_Cabin = "Fermer la cabine",
+    ContextMenu_cabinForceUnlock_tooTired = "Je suis trop fatigué<br>pour ouvrir la cabine",
+    ContextMenu_cabinForceUnlock_tooBored = "Je ne veux pas<br>faire ça maintenant",
+    ContextMenu_cabinForceUnlock_tooUnhappy = "Je ne suis pas d'humeur<br>à faire ça",
+
+/************ Autotsar Tuning Atelier - Bus ************/
+    ContextMenu_Vehicle_EGNH = "Écrire «EGNH»",
+    ContextMenu_Vehicle_STRAYS = "Écrire «STRAYS»",
+    
+/************ Autotsar Trailers ************/
+    ContextMenu_Close_trunk = "Fermer le coffre",
+    ContextMenu_Open_trunk = "Ouvrir le coffre",
+    ContextMenu_TrailerSpotlightOn = "Allumer les projecteurs",
+    ContextMenu_TrailerSpotlightOff = "Éteindre les projecteurs",
+    ContextMenu_Turn_On_Generator = "Démarrer le générateur",
+    
+/************ True Actions ************/
+    ContextMenu_Sit = "S'asseoir",
+    ContextMenu_Lie = "S'allonger",
+    ContextMenu_OnSleep = "Se coucher",
+    
+/************ True Music ************/
+    ContextMenu_Stop_music = "Arrêter la musique",
+    ContextMenu_Play_music = "Jouer de la musique",
+    ContextMenu_Sound_carrier_not_install = "Le support sonore n'est pas installé",
+    ContextMenu_Song = "Chanson",
+    
+/************ ZuperCart ************/
+    ContextMenu_GrabTrolley = "Prendre le chariot",
+
+}

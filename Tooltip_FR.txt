@@ -1,0 +1,54 @@
+Tooltip_FR = {
+    Tooltip_Compact_Appliance = "Peut être installé dans certains véhicules et remorques",
+    Tooltip_item_tuning = "Pièce pour le tuning",
+    Tooltip_item_ATATuningMagUniversal = "Après avoir lu ce numéro, vous acquerrez des connaissances de base en matière de tuning. Vous apprendrez<br>à créer une protection universelle pour les vitres, étudierez les dessins de différents types de coffres<br>et comprendrez comment rendre les pare-chocs de voiture plus mortel.",
+
+
+/************ Aquatsar Yacht Club ************/
+    Tooltip_item_BoatMechanic = "Type de bateau",
+    Tooltip_BoatDashboard_SpeedValueButton = "Changer les unités de mesure",
+    Tooltip_Boat_LowBattery = "Niveau de batterie faible",
+    Tooltip_item_BoatMag = "Manuel d'instructions contenant des diagrammes et des tâches de maintenance<br>courantes pour les modèles de bateaux populaires.", 
+    Tooltip_item_SwimMag = "Magazine sur les méthodes de natation les plus efficaces. Entretien avec les meilleurs nageurs du pays.<br>Passage en revue des maillots de bain, bonnets et lunettes.", 
+
+
+/************ Autotsar Tuning Atelier - Bus ************/
+    Tooltip_item_AtTuningMagBus = "Dans ce numéro, vous apprendrez comment préparer votre bus à l'apocalypse zombie,<br>apprendre à créer une protection pour les vitres et les roues, comprendre comment fabriquer<br>une grille efficace et comment fabriquer une galerie de toit spacieuse.",
+    Tooltip_item_kengur = "Vous avez mis au point un nouveau type de fouet.<br>Il ne vous reste plus qu'à étudier vos dessins de plus près.",
+
+
+/************ Autotsar Tuning Atelier - Jeep ************/
+    Tooltip_item_AtTuningMagJeep = "Après avoir lu ce numéro, vous obtiendrez des connaissances de base en matière de tuning et apprendrez à créer des protections, des pare-chocs, des barres de toit et des coffres supplémentaires pour Jaap Wrungel.",
+
+
+/************ Autotsar Tuning Atelier - Mustang ************/
+/************ Autotsar Tuning Atelier - Samara ************/
+    Tooltip_item_ATATuningFordMustang = "Après avoir lu ce numéro, vous obtiendrez des connaissances de base en matière de tuning et apprendrez à<br>créer une protection, un pare-buffle et une galerie de toit pour Fjord Mustard.",
+    Tooltip_item_ATATuningChevalierSamara = "Après avoir lu ce numéro, vous obtiendrez des connaissances de base en matière de tuning et apprendrez à<br>créer une protection, un pare-buffle et une galerie de toit pour Chevalier Samara.",
+
+
+/************ Autotsar Tuning Atelier - Dadge Steals RT ************/
+    Tooltip_item_ATADodgeTuningMag = "Après avoir lu ce numéro, vous obtiendrez des connaissances de base en matière de tuning et apprendrez à<br>créer des protections, un pare-buffle et des supports pour Dadge Steals RT.",
+
+
+/************ Autotsar Tuning Atelier - Petyarbuilt ************/
+    Tooltip_item_ATAPetyarbuiltTuningMag = "Après avoir lu ce numéro, vous obtiendrez des connaissances de base en matière de tuning et apprendrez à<br>créer une protection pour Petyarbuilt 379.",
+
+
+/************ Autotsar Tuning Atelier - MolksAgen Luton Van ************/
+    Tooltip_item_ATATuningMagLuton = "Après avoir lu ce numéro, vous obtiendrez des connaissances de base en matière de tuning et apprendrez à<br>créer une protection pour MolksAgen Luton Van.",
+
+
+/************ Autotsar Tuning Atelier - MolksAgen DeRumba Van ************/
+    Tooltip_item_ATATuningMagDeRumba = "Après avoir lu ce numéro, vous obtiendrez des connaissances de base en matière de tuning et apprendrez à<br>créer une protection pour DeRumba Van.",
+
+
+/************ True Music ************/
+    Tooltip_item_Boombox = "Boombox étrangère. Ne capte pas la radio locale,<br>mais peut lire des cassettes. Alimenté par des piles.",
+    Tooltip_item_Vinyl = "Il a besoin d’électricité et d’enceintes connectées pour fonctionner.",
+    Tooltip_item_Walkman = "Le célèbre lecteur de Sany.",
+
+
+/************ Autotsar Tuning Atelier - Bumer 36E ************/
+    Tooltip_item_ATABMWe36TuningMag = "Après avoir lu ce numéro, vous obtiendrez des connaissances de base en matière de tuning et apprendrez à<br>créer des protections, un pare-buffle et des supports pour le Bumer 36E.",
+}

@@ -14,6 +14,7 @@ Recipe_FR = {
 
     Recipe_Cut_ATABullbar1Item = "Couper le pare-buffle",
     Recipe_Cut_ATABullbar2Item = "Couper le pare-buffle",
+	Recipe_Cut_ATABullbar3Item = "Couper le pare-buffle",
     Recipe_Cut_ATAFendersWideItem = "Couper les ailes",
     Recipe_Cut_ATASkirtsSideItem = "Couper les jupes",
     Recipe_Cut_ATASpoilerFrontItem = "Couper le Spoiler avant",
@@ -66,7 +67,6 @@ Recipe_FR = {
     Recipe_Dismantle_TCWalkman = "Démonter le lecteur de musique",
     Recipe_Dismantle_TruePlayers = "Démonter le lecteur de musique",
 
-	Recipe_Cut_ATABullbar3Item = "",
-	Recipe_Cut_ATABullbarPoliceItem1 = "",
-	Recipe_Cut_ATAFrontRoofLightItem = "",
+	Recipe_Cut_ATABullbarPoliceItem1 = "Couper le pare-buffle",
+	Recipe_Cut_ATAFrontRoofLightItem = "Couper les feux de toit",
 }

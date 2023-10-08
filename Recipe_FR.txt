@@ -1,0 +1,72 @@
+Recipe_FR = {
+    Recipe_ATADodgeRecipes = "Tuning Dadge",
+    Recipe_ATABusRecipes = "Tuning Bus",
+    Recipe_ATAJeepRecipes = "Tuning Jaap",
+    Recipe_ATABMWe36Recipes = "Tuning BMW 36E",
+    Recipe_ATAVanDeRumbaRecipes = "Tuning DeRumba Van",
+    Recipe_ATAMustangRecipes = "Tuning Fjord Mustard",
+    Recipe_ATASamaraRecipes = "Tuning Chevalier Samara",
+    Recipe_ATALutonRecipes = "Tuning MolksAgen Luton Van",
+    Recipe_ATAPetyarbuiltRecipes = "Tuning Petyarbuilt 379",
+    Recipe_ATADeLorianRecipes = "Tuning DMG DoLorean",
+    Recipe_ATADeLorianBTTFRecipes = "Recette pour une machine à voyager dans le temps",
+    Recipe_ATADatsun240zRecipes = "Tuning Dadsun 240z",
+
+    Recipe_Cut_ATABullbar1Item = "Couper le pare-buffle",
+    Recipe_Cut_ATABullbar2Item = "Couper le pare-buffle",
+    Recipe_Cut_ATAFendersWideItem = "Couper les ailes",
+    Recipe_Cut_ATASkirtsSideItem = "Couper les jupes",
+    Recipe_Cut_ATASpoilerFrontItem = "Couper le Spoiler avant",
+    Recipe_Cut_ATASpoilerRear1Item = "Couper le Spoiler arrière",
+    Recipe_Cut_ATASpoilerRear2Item = "Couper le Spoiler arrière",
+
+
+/* transport_item.txt */
+    Recipe_Make_TransportCounter = "Construire un comptoir portable",
+    Recipe_Make_TransportCupboard = "Construire une armoire portable",
+    Recipe_Make_TransportShelve = "Construire une étagère portable",
+    Recipe_Make_a_compact_fridge = "Fabriquer un réfrigérateur compact",
+    Recipe_Make_a_compact_stove = "Fabriquer une cuisinière compacte",
+    Recipe_Make_a_compact_microwave = "Fabriquer un micro-onde compact",
+
+
+/* ATA */
+    Recipe_Make_ATAProtectionWheelsItem = "Fabriquer une protection de roue",
+    Recipe_Cut_ATAProtectionWheelsItem = "Couper une protection de roue",
+    Recipe_Basic_Tuning = "Tuning basique",
+
+
+/************ Autotsar Motorclub ************/
+    Recipe_Make_ATAMotoBMWCustomMuffler = "Fabriquer un silencieux sur mesure pour BWM R80/7",
+
+
+/************ Aquatsar Yacht Club ************/
+    Recipe_Extract_Tire_Tube = "Extraire la chambre à air",
+    Recipe_Flatten_Tire_Tube = "Aplatir la chambre à air",
+    Recipe_Inflate_Tire_Tube = "Gonfler la chambre à air",
+    Recipe_Powerboats_Mechanics = "Mécanique de bateaux à moteur",
+    Recipe_Sailboats_Mechanics = "Mécanique de voiliers",
+    Recipe_Performance_Boat_Mechanics = "Mécanique performante de bateau",
+    Recipe_Swimming = "Meilleure technique de natation",
+
+
+/************ Autotsar Tuning Atelier - Jaap Wrungel ************/
+    Recipe_Cut_ATAJeepBumper1Item = "Couper le pare-chocs - Jaap Wrungel",
+    Recipe_Cut_ATAJeepBumper2Item = "Couper le pare-chocs - Jaap Wrungel",
+    Recipe_Cut_ATAJeepBumper3Item = "Couper le pare-chocs - Jaap Wrungel",
+
+
+/************ Autotsar Tuning Atelier - Fjord Mustard ************/
+/************ Autotsar Tuning Atelier - Chevalier Samara ************/
+    Recipe_Cut_ATAMustangHoodItem = "Couper le capot - Mustard",
+    Recipe_Cut_ATASamaraHoodItem = "Couper le capot - Samara",
+
+
+/************ True Music ************/
+    Recipe_Dismantle_TCWalkman = "Démonter le lecteur de musique",
+    Recipe_Dismantle_TruePlayers = "Démonter le lecteur de musique",
+
+	Recipe_Cut_ATABullbar3Item = "",
+	Recipe_Cut_ATABullbarPoliceItem1 = "",
+	Recipe_Cut_ATAFrontRoofLightItem = "",
+}
